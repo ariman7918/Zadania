@@ -1,0 +1,62 @@
+.body{
+	max-height: 500px;
+	max-width: 1050px;
+}
+.main {
+    position: absolute;
+    padding: 30px;
+    left: 0px;
+    top: 0px;
+    height: 500px;
+    width: 100%;
+	background: grey;
+}
+.kub{
+	height: 150px;
+	width: 150px;
+	background: lightgrey;
+	border: 2px solid black;
+}
+.latex {
+	height: 150px;
+	width: 33%;
+	background: lightgrey;
+	border:2px solid black;
+}
+.nokub{
+	height: 150px;
+	width: 450px;
+	background: lightgrey;
+	border:2px solid black;
+}
+.main_elem_1{
+	position: absolute;
+	left:30px;
+	top:30px;
+}
+.main_elem_2{
+	position: absolute;
+	left:30px;
+	bottom:30px;
+}
+.main_elem_3{
+	position: absolute;
+	right: 30px;
+	top:30px;
+}
+.main_elem_4{
+	position: absolute;
+	right:50px;
+	bottom:30px;
+}
+.main_elem_5{
+	position: absolute;
+	left:34%;
+	bottom:30px;
+
+}
+.main_elem_6{
+	position: absolute;
+	left:50%;
+	top:30px;
+}

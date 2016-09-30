@@ -1,0 +1,73 @@
+.body{
+	max-height: 500px;
+	max-width: 1050px;
+	padding: 2px;
+}
+.kub{
+	height: 150px;
+	width: 150px;
+	background: lightgrey;
+	border: 2px solid black;
+}
+.latex {
+	height: 150px;
+	width: 35%;
+	background: lightgrey;
+	border:2px solid black;
+}
+.nokub{
+	height: 150px;
+	width: 450px;
+	background: lightgrey;
+	border:2px solid black;
+}
+.main {
+	display: table-cell;
+	margin: auto;
+	padding: 30px;
+    height: 339px;
+    min-width: inherit;
+    width: 1290px;
+	background: grey;
+}
+.main_1 {
+	display: table-cell;
+}
+.main_2 {
+	display: table;
+}
+.main_elem_1{
+	display: table-cell;
+
+
+}
+.main_elem_2{
+	display: table-cell;
+
+	
+	}
+.main_elem_3{
+	display: table-cell;
+
+
+}
+.main_elem_4{ 
+		display: table-cell;
+
+	
+}
+.main_elem_5{
+	display: table-cell;
+
+
+
+	 
+}
+.main_elem_6{
+		display: table-cell;
+
+	
+
+
+	
+}
