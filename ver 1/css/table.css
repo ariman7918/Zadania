@@ -1,0 +1,80 @@
+.body{
+	max-height: 500px;
+	max-width: 1050px;
+	padding: 2px;
+}
+.kub{
+	height: 150px;
+	max-width: 150px;
+	background: lightgrey;
+	border: 2px solid black;
+}
+.latex {
+	height: 150px;
+	width: 35%;
+	background: lightgrey;
+	border:2px solid black;
+}
+.nokub{
+	height: 150px;
+	width: 450px;
+	background: lightgrey;
+	border:2px solid black;
+}
+.main {
+	padding: 30px;
+    height: 339px;
+    min-width: inherit;
+    width: 1290px;
+	background: grey;
+}
+.mini_main {
+	display: table;
+	width: inherit;
+	height: 150px;
+	padding-bottom: 30px;
+}
+.str {
+	display: table-row;
+	padding: 30px;
+}
+.main_elem_hiden {
+   display: table-cell;
+   width: 34px;
+   height: inherit;
+}
+.main_elem_hiden2 {
+   display: table-cell;
+   width: 38.4%;
+   height: inherit;
+}
+.main_elem_hiden3 {
+   display: table-cell;
+   width: 19.3%;
+   height: inherit;
+}
+.main_elem_hiden4 {
+   display: table-cell;
+   width: 30px;
+   height: inherit;
+}
+.main_elem_1{
+	display: table-cell;
+	width: 150px;
+}
+.main_elem_2{
+	display: table-cell;
+	width: 150px;
+	}
+.main_elem_3{
+	display: table-cell;
+}
+.main_elem_4{ 
+	display: table-cell;	
+}
+.main_elem_5{
+	display: table-cell;	 
+}
+.main_elem_6{
+	display: table-cell;	
+}

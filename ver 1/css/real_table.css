@@ -1,0 +1,56 @@
+.body{
+	max-height: 500px;
+	max-width: 1050px;
+	padding: 2px;
+}
+.main {
+	padding: 30px;
+    height: 339px;
+    min-width: inherit;
+    width: 1290px;
+	background: grey;
+	padding-top: 0px;
+	padding-bottom: 60px;
+}
+.kub{
+	min-height: 150px;
+	max-height: 150px;
+	min-width: 150px;
+	max-width: 150px;
+	background: lightgrey;
+	border: 2px solid;
+	}
+.latex {
+	height: 150px;
+	min-width: 450px;
+	background: lightgrey;
+	border: 2px solid;
+}
+.nokub{
+	height: 150px;
+	min-width: 450px;
+	max-width: 450px;
+	background: lightgrey;
+	border: 2px solid;
+}
+.table1 {
+	width: inherit;
+	border-spacing: 0px 30px;
+}
+.table2 {
+	width: inherit;
+	border-spacing: 0px 0px;
+}
+.main_hiden1 {
+  width:50%;
+   height: inherit;
+}
+.main_hiden2 {
+   max-width: 30px;
+   min-width: 30px;
+   height: inherit;
+}
+.main_hiden3 {
+  width:38.5%;
+   height: inherit;
+}
