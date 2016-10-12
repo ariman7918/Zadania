@@ -1,0 +1,55 @@
+body{
+	padding: 2px;
+}
+.kub{
+	height: 150px;
+	width: 150px;
+	background: lightgrey;
+	border: 2px solid black;
+}
+.latex {
+	height: 150px;
+	width: 30%;
+	background: lightgrey;
+	border:2px solid black;
+}
+.nokub{
+	height: 150px;
+	width: 300px;
+	background: lightgrey;
+	border:2px solid black;
+}
+.main {
+	padding: 30px ;
+    width: 1000px;
+	background: grey;
+}
+.main_row_l {
+	float: left;
+}
+.main_row_r {
+	float: right;
+}
+.main_bottom  {
+	margin-bottom: 30px;
+}
+.main_elem_5{
+	float: right;
+	margin-right: 30px;
+
+}
+.main_elem_6 {
+	float: left;
+	margin-left: 35%;
+	margin-top: -154px;
+	clear: both;
+	/* у меня возникла проблема:
+	6 элемент уходил вниз, если убрать маргин то будет это видно. 
+	Я не знаю насколко правильное это решение.
+	 */
+}
+.clearfix::after {
+	display: block;
+	content: "";
+	clear: both;
+}
