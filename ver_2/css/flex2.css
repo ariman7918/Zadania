@@ -1,0 +1,73 @@
+body{
+	padding: 2px;
+}
+.kub{
+	height: 150px;
+	width: 150px;
+	background: lightgrey;
+	border: 2px solid black;
+}
+.latex {
+	height: 150px;
+	min-width: 300px;
+	width: 30%;
+	background: lightgrey;
+	border:2px solid black;
+}
+.nokub{
+	height: 150px;
+	width: 300px;
+	background: lightgrey;
+	border:2px solid black;
+}
+.main {
+	padding: 30px ;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    height: 339px;
+    width: 1000px;
+	background: grey;
+
+}
+.main_row_1_1 {
+	width: 50%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	
+}
+.main_row_1_2 {
+	width: 50%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	
+}
+.main_row_1{
+	width: inherit;
+	display: flex;
+	flex-direction:row;
+	justify-content:  flex-end;
+	margin-bottom: 30px;
+  
+}
+.main_row_2{
+	width: inherit;
+	display: flex;
+	flex-direction:row;
+	justify-content:  space-between;
+}
+.main_elem_1{
+ display: flex;
+ align-self: flex-start;
+}
+.main_elem_5{
+ display: flex;
+ align-self: flex-end;
+ margin-right: 30px;
+}	
+.main_elem_6{
+    display: flex;
+    align-self: center;
+}	
